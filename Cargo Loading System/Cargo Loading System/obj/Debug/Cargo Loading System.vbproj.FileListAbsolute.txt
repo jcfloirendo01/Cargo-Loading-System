@@ -1,0 +1,30 @@
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\bin\Debug\Cargo Loading System.exe.config
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\bin\Debug\Cargo Loading System.exe
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\bin\Debug\Cargo Loading System.pdb
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\bin\Debug\Cargo Loading System.xml
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.vbprojResolveAssemblyReference.cache
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.Login.resources
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.Resources.resources
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.vbproj.GenerateResource.Cache
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.exe
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.xml
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.pdb
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.Dashboard.resources
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.Signup.resources
+c:\users\horcruxpanda\documents\visual studio 2015\Projects\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.SendCargo.resources
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\bin\Debug\Cargo Loading System.exe.config
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\bin\Debug\Cargo Loading System.exe
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\bin\Debug\Cargo Loading System.pdb
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\bin\Debug\Cargo Loading System.xml
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.vbprojResolveAssemblyReference.cache
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.Dashboard.resources
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.Login.resources
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.Resources.resources
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.SendCargo.resources
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo_Loading_System.Signup.resources
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.vbproj.GenerateResource.Cache
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.vbproj.CoreCompileInputs.cache
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.exe
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.xml
+C:\Users\Fr. Bobby Dela Cruz\Desktop\Cargo Loading System\Cargo Loading System\obj\Debug\Cargo Loading System.pdb
